@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @ceinpr
-- 👀 I’m interested in PCB Design and Embaded codes Arduino codes
-- 🌱 I’m currently learning Arduino coding
-- 💞️ I’m looking to collaborate on same topic whome enhance my knowlege
-- 📫 How to reach me  linkedin.com/in/prince-kumar-628a24191
+- 👀 Creative problem solver, adept at navigating the skies of technical challenges, I am a seasoned drone engineer with a relentless drive to innovate. With a solid foundation in aerodynamics, electronics, and autonomous systems, I have honed my skills through years of hands-on experience and a commitment to staying at the forefront of technological advancements.
 
 <!---
 ceinpr/ceinpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
